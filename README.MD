@@ -1,1 +1,1 @@
-# This is a Apple-clone.
+# This is an Apple-clone.
