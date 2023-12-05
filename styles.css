@@ -292,6 +292,11 @@ footer{
 .fotterBottom p{
     color: white;
     opacity: 0.7;
+    
+}
+
+ a{
+    text-decoration: none;
 }
 
 .designer{
@@ -301,6 +306,7 @@ footer{
     letter-spacing: 1px;
     font-weight: 400;
     margin: 0px 5px;
+    text-decoration: none;
 }
 
 .designer:hover{
